@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://flopolis.github.io/sitemap
+Sitemap: https://flopolis.github.io/app/sitemap
+Sitemap: https://flopolis.github.io/assets/sitemap
+Sitemap: https://flopolis.github.io/css/sitemap
+Sitemap: https://flopolis.github.io/includes/sitemap
+Sitemap: https://flopolis.github.io/item/sitemap
+Sitemap: https://flopolis.github.io/src/sitemap
